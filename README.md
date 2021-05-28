@@ -1,3 +1,3 @@
-# linear-code
+# Standard arrangement decoding
 
-Standard arrangement decoding
+Linear code
